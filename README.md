@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurinder Singh Kalsi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working at [Physicswallah](pw.live)
+- 🔭 I’m currently working at [Physicswallah](https://www.pw.live)
 
 - 🌱 I’m currently learning **Django**
 
